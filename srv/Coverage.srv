@@ -1,0 +1,3 @@
+---
+bool result # True if success
+FileCoverage[]  # Coverage reports for each file
