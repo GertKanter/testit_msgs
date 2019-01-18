@@ -1,2 +1,2 @@
 string filename
-int[] lines
+int32[] lines
