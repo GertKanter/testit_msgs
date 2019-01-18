@@ -16,8 +16,6 @@ add_service_files(
   Coverage.srv
 )
 
-catkin_python_setup()
-
 generate_messages(
   # DEPENDENCIES
 )
