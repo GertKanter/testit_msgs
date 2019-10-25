@@ -8,7 +8,8 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   DIRECTORY msg
     FILES
-    FileCoverage.msg)
+    FileCoverage.msg
+    FlushData.msg)
 
 add_service_files(
   DIRECTORY srv
